@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-behk3-должности-e",
+  "editForm": "i-i-s-behk3-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISBehk3ДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-behk3-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

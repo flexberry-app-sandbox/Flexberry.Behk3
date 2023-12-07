@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-behk3-контрагенты-e",
+  "editForm": "i-i-s-behk3-контрагенты-e",
+  "external": false,
+  "caption": "Контрагенты",
+  "name": "IISBehk3КонтрагентыL",
+  "className": "КонтрагентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-behk3-контрагенты",
+      "modelProjection": "КонтрагентыL"
+    }
+  ]
+}

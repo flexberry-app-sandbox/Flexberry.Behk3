@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Behk3.model.SostavBlyuda</class>
+        <class>Behk3.model.Zapis</class>
+        <class>Behk3.model.Pitaniya</class>
+        <class>Behk3.model.DokumentZakaza</class>
+        <class>Behk3.model.Kontragenty</class>
+        <class>Behk3.model.Dolzhnosti</class>
+        <class>Behk3.model.Ingredienty</class>
+        <class>Behk3.model.Sotrudniki</class>
+        <class>Behk3.model.FlexberryAdvLimit</class>
+        <class>Behk3.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Behk3.model.NewPlatformFlexberryServicesLock</class>
+        <class>Behk3.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

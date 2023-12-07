@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Ингредиенты",
+  "name": "IISBehk3ИнгредиентыE",
+  "className": "ИнгредиентыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-behk3-ингредиенты",
+      "modelProjection": "ИнгредиентыE"
+    }
+  ]
+}

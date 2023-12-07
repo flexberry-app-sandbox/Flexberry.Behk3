@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Behk3",
+  "applicationTitle": "Behk3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "behk3",
+      "caption": "Behk3",
+      "title": "Behk3",
+      "children": [
+        {
+          "link": "i-i-s-behk3-питания-l",
+          "menuName": null,
+          "caption": "Питания",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-behk3-документ-заказа-l",
+          "menuName": null,
+          "caption": "Документ заказа",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-behk3-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-behk3-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-behk3-ингредиенты-l",
+          "menuName": null,
+          "caption": "Ингредиенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-behk3-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

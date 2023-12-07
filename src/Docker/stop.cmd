@@ -1,0 +1,1 @@
+docker-compose -p behk3 down
