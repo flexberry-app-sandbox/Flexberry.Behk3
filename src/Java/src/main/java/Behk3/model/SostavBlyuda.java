@@ -23,7 +23,7 @@ public class SostavBlyuda {
     private UUID primarykey;
 
     @Column(name = "Количество")
-    private Integer количество;
+    private String количество;
 
     @EdmIgnore
     @Converter(converterClass = UUIDConverter.class, name = "Ingredienty")
@@ -58,11 +58,11 @@ public class SostavBlyuda {
         return primarykey;
     }
 
-    public Integer getКоличество() {
+    public String getКоличество() {
       return количество;
     }
 
-    public void setКоличество(Integer количество) {
+    public void setКоличество(String количество) {
       this.количество = количество;
     }
 

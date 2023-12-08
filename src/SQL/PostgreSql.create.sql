@@ -5,7 +5,7 @@
 
 CREATE TABLE СоставБлюда (
  primaryKey UUID NOT NULL,
- Количество INT NULL,
+ Количество VARCHAR(255) NULL,
  Ингредиенты UUID NOT NULL,
  Питания UUID NOT NULL,
  PRIMARY KEY (primaryKey));

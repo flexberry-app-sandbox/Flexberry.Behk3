@@ -12,6 +12,7 @@ namespace IIS.Behk3
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -31,11 +32,13 @@ namespace IIS.Behk3
         // *** Start programmer edit section *** (Полы.Мужской CustomAttributes)
 
         // *** End programmer edit section *** (Полы.Мужской CustomAttributes)
+        [Caption("Мужской")]
         Мужской,
         
         // *** Start programmer edit section *** (Полы.Женский CustomAttributes)
 
         // *** End programmer edit section *** (Полы.Женский CustomAttributes)
+        [Caption("Женский")]
         Женский,
     }
 }

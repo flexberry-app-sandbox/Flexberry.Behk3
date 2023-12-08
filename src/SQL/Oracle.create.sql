@@ -7,7 +7,7 @@ CREATE TABLE "СоставБлюда"
 
 	"primaryKey" RAW(16) NOT NULL,
 
-	"Количество" NUMBER(10) NULL,
+	"Количество" NVARCHAR2(255) NULL,
 
 	"Ингредиенты" RAW(16) NOT NULL,
 

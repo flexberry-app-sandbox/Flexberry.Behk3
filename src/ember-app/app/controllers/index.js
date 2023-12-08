@@ -22,37 +22,37 @@ export default Controller.extend({
             link: 'i-i-s-behk3-питания-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-питания-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-питания-l.title'),
-            icon: 'phone',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-behk3-документ-заказа-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-документ-заказа-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-документ-заказа-l.title'),
-            icon: 'address card',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-behk3-контрагенты-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-контрагенты-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-контрагенты-l.title'),
-            icon: 'tags',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-behk3-должности-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-должности-l.title'),
-            icon: 'briefcase',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-behk3-ингредиенты-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-ингредиенты-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-ингредиенты-l.title'),
-            icon: 'folder open',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-behk3-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.behk3.i-i-s-behk3-сотрудники-l.title'),
-            icon: 'paperclip',
+            icon: 'archive',
             children: null
           }]
         }

@@ -38,7 +38,7 @@ namespace IIS.Behk3
     public class СоставБлюда : ICSSoft.STORMNET.DataObject
     {
         
-        private int fКоличество;
+        private string fКоличество;
         
         private IIS.Behk3.Ингредиенты fИнгредиенты;
         
@@ -55,14 +55,15 @@ namespace IIS.Behk3
         // *** Start programmer edit section *** (СоставБлюда.Количество CustomAttributes)
 
         // *** End programmer edit section *** (СоставБлюда.Количество CustomAttributes)
-        public virtual int Количество
+        [StrLen(255)]
+        public virtual string Количество
         {
             get
             {
                 // *** Start programmer edit section *** (СоставБлюда.Количество Get start)
 
                 // *** End programmer edit section *** (СоставБлюда.Количество Get start)
-                int result = this.fКоличество;
+                string result = this.fКоличество;
                 // *** Start programmer edit section *** (СоставБлюда.Количество Get end)
 
                 // *** End programmer edit section *** (СоставБлюда.Количество Get end)

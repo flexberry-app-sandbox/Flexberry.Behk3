@@ -6,7 +6,7 @@ CREATE TABLE [СоставБлюда] (
 
 	 [primaryKey] UNIQUEIDENTIFIER  NOT NULL,
 
-	 [Количество] INT  NULL,
+	 [Количество] VARCHAR(255)  NULL,
 
 	 [Ингредиенты] UNIQUEIDENTIFIER  NOT NULL,
 
